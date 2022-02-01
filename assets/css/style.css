@@ -18,4 +18,9 @@ header h1 {
 }
 header a {
     color: #fce138;
+    text-decoration: none;
 }
+header nav {
+    float: right;
+    margin: 7px 0;
+} 
